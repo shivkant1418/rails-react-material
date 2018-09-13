@@ -17,6 +17,6 @@ development:
 #   <<: *default
 #   database: bestow_bootstrap
 
-# production:
-#   <<: *default
-#   database: bestow_bootstrap
+production:
+  <<: *default
+  database: bestow_bootstrap
